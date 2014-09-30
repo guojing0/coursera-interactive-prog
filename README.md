@@ -1,4 +1,5 @@
-coursera-interactive-prog
-=========================
+#### An Introduction to Interactive Programming in Python
 
-Assignments of An Introduction to Interactive Programming in Python on Coursera
+Blog: [`guoj.org`](guoj.org)
+Github: [`github.com/guojing0`](github.com/guojing0)
+Email: [`dev.guoj@gmail.com`](mailto:dev.guoj@gmail.com)
